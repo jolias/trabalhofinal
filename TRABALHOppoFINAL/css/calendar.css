@@ -1,0 +1,214 @@
+
+	background-color: #fafafa;
+	font-family: Raleway;
+}
+
+label {
+	display: none;
+}
+
+#telamenu {
+	position: absolute;
+	top: 65%;
+	left: 25%;
+	width: 100%;
+}
+
+.camposFormulario{
+	border-style: none;
+	border-style: solid;
+	border-color: #36769a;
+	border-width: 2px;
+	border-radius: 8px;
+	background-color: #fafafa;
+	width: 100%;
+	height: 40px;
+
+}
+
+input::placeholder{
+	font-size: 14pt;
+
+}
+
+#login{
+	width: 50%;
+	position: absolute;
+	top: 50%;
+	left: 25%;
+}
+
+#topbar{
+	width: 100%;
+	height: 10%;
+	background-color: #36769a;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	color: #fff;
+
+}
+
+h3{
+	position: absolute;
+	left: 10%;
+	top: 10%;
+}
+
+#form {
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	width: 80%;
+}
+
+.botao{
+	position: absolute;
+	left: 25%;
+	font-size: 14pt;
+	background-color:  #36769a;
+}
+
+small {
+	position: absolute;
+	left: 25%;
+}
+
+#botaozinho{
+	position: absolute;
+	left: 85%;
+	top: 25px;
+	width: 10%;
+	background-color: #36769a;
+	border-style: none;
+}
+
+#mainlogo{
+	width: 60%;
+	position: absolute;
+	top: -3%;
+	left: 20%;
+}
+
+#dropdownmenu{
+	position: absolute;
+	left: 30%;
+}
+
+#tablehorario {
+	position: absolute;
+	top: 15%;
+	left: 5%;
+	width: 90%;
+}
+
+.headzao{
+	background-color: #36769a;
+}
+
+#files{
+	background-color: #36769a;
+	border-top-right-radius: 5px; 
+	border-top-left-radius: 5px;
+	position: absolute;
+	top: 60%;
+	left: 10%;
+	width: 80%;
+}
+
+#navtab {
+	width: 100%;
+	position: fixed;
+	bottom: 0%;
+	z-index: 3;
+
+}
+
+.nav-item{
+	width: 20%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e3e3e3;
+	background-color: white;
+
+}
+span.glyphicon {
+	color: #36769a;
+}
+
+.active {
+	background-color: #36769a;
+	color: white;
+}
+
+.filecontainer {
+	position: absolute;
+	top: 10%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+}
+.file1{
+	border-top: 1px solid #e3e3e3;
+	border-bottom: 1px solid #e3e3e3;
+	width: 100%;
+	height: 10%;
+}
+.file{
+	border-bottom: 1px solid #e3e3e3;
+	width: 100%;
+	height: 10%;
+}
+
+.glyphicon {
+	font-size: 2.5em;
+	position: relative;
+	top: 25%;
+	left: 5%;
+}
+
+.filetext {
+	width: 60%;
+	height: 50%;
+	position: relative;
+	top: 10%;
+	left: 15%;
+
+}
+
+.filetext2 {
+	width: 60%;
+	height: 50%;
+	position: relative;
+	top: 10%;
+	left: 60%;
+
+}
+
+.badge {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	background-color: red;
+}
+
+.panel-default {
+	background-color: #36769a;
+	color: white;
+	font-size: 1.5em;
+}
+#accordion {
+	position: absolute;
+	top: 20%;
+	width: 90%;
+	left: 5%;
+	text-decoration: none;
+	color: white;
+}
+
+a {
+	color: white;
+}
+div {
+	color: white;
+}

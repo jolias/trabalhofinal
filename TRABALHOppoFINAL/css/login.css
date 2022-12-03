@@ -1,0 +1,118 @@
+body{
+	background-color: #fafafa;
+	font-family: Raleway;
+}
+
+button {
+	cursor: pointer;
+	font-family: Raleway;
+	font-size: 20pt;
+	font-weight: bold;
+	color: #36769a;
+	width: 50%;
+	background-color: #8dbfda;
+	border-style: solid;
+	border-width: 4px;
+	border-color: #36769a;
+	border-radius: 5px;
+	box-shadow: 1px 1px 3px #888888;
+}
+
+label {
+	display: none;
+}
+
+#telamenu {
+	position: absolute;
+	top: 65%;
+	left: 25%;
+	width: 100%;
+}
+
+.camposFormulario{
+	border-style: none;
+	border-style: solid;
+	border-color: #36769a;
+	border-width: 2px;
+	border-radius: 8px;
+	background-color: #fafafa;
+	width: 100%;
+	height: 40px;
+
+}
+
+input::placeholder{
+	font-size: 14pt;
+
+}
+
+#login{
+	width: 50%;
+	position: absolute;
+	top: 70%;
+	left: 25%;
+}
+
+#topbar{
+	width: 100%;
+	height: 10%;
+	background-color: #36769a;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	color: #fff;
+
+}
+
+h2{
+	position: absolute;
+	left: 10%;
+	top: 10%;
+}
+
+#form {
+	position: absolute;
+	top: 45%;
+	left: 10%;
+	width: 80%;
+}
+
+.botao{
+	position: absolute;
+	left: 25%;
+	font-size: 14pt;
+	background-color:  #36769a;
+}
+
+small {
+	position: absolute;
+	left: 25%;
+}
+
+.cadsec {
+	width: 100%;
+	position: absolute;
+	top: 140%;
+	left: 0%;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #e3e3e3;
+}
+
+.page-header{
+	font-size: 2em;
+	padding-bottom: 6%;
+	background-color: 
+}
+#mainlogo{
+	width: 60%;
+	position: absolute;
+	left: 25%;
+	top: 10%;
+}
+
+#logo {
+	width: 50%;
+	position: absolute;
+	left: 20%;
+}
